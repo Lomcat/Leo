@@ -1,0 +1,11 @@
+.idea/
+target/
+*.iml
+.git
+.metadata
+.recommenders
+RemoteSystemsTempFiles
+Servers
+.settings/
+.classpath
+.project
